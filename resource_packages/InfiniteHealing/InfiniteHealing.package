@@ -1,0 +1,11 @@
+mod = [
+	"InfiniteHealing"
+]
+
+package = [
+	"resource_packages/InfiniteHealing/InfiniteHealing"
+]
+
+lua = [
+	"scripts/mods/InfiniteHealing/*"
+]
